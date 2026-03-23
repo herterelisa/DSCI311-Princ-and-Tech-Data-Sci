@@ -1,6 +1,6 @@
 # DSCI 311 — Principles & Techniques of Data Science
 
-Intermediate and advanced data science techniques using Python. Covers data cleaning, text handling, dimensionality reduction, PCA, regression, classification, and inference — with a focus on ethical practice and real-world application.
+Intermediate and advanced data science techniques using Python. Covers data cleaning, text handling, dimensionality reduction, PCA, regression, classification, and inference with a focus on ethical practice and real-world application.
 
 ---
 
