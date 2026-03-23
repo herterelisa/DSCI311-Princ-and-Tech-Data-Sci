@@ -1,6 +1,27 @@
+# DSCI 311 — Principles & Techniques of Data Science
 
-<body>
-    <h1>DSCI 311: Princ & Tech Data Sci </h1>
-    <p>Intermediate and advanced techniques in data science. This course applies computational and statistical techniques to upper-division coursework in data science as well as quantitative, data-driven courses in other domains or subject areas. Topics include managing data with Python, including Pandas, data cleaning, handling text, dimensionality, principal components analysis, regression, classification, and inference. Ethical concerns resulting from use of the techniques in this course will be addressed. This course will culminate in the implementation of a student-led project employing the three objectives of data science: Exploration, Inference and Prediction. <p>
-    
-</body>
+Intermediate and advanced data science techniques using Python. Covers data cleaning, text handling, dimensionality reduction, PCA, regression, classification, and inference — with a focus on ethical practice and real-world application.
+
+---
+
+## Project
+
+### 🍽️ San Francisco Food Safety Scores
+Investigating restaurant food safety scores and violation data made available by the SF Department of Public Health. Full data cleaning and EDA pipeline.
+
+**Skills practiced:** CSV reading, missing value handling, anomaly detection, variable distributions
+
+---
+
+## Repo structure
+```
+DSCI311-Princ-and-Tech-Data-Sci/
+├── Homeworks/       # hw1–hw6 + optional
+├── Labs/            # lab1–lab7
+├── project1.ipynb   # SF food safety scores
+├── Midterm_Fall25.ipynb
+└── README.md
+```
+
+## Stack
+`Python` `pandas` `numpy` `matplotlib` `seaborn` `scikit-learn`
